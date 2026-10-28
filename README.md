@@ -211,7 +211,7 @@ p.note { display: none; }
         }
 
         .space-footer {
-            margin-bottom: 200px;
+            margin-bottom: 400px;
         }
 
 </style>
