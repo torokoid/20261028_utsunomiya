@@ -325,7 +325,7 @@ p.note { display: none; }
 
 <h2><span class="yellow">吉野家までの行き帰り運転動画</span></h2>
 <div class="youtube-wrapper">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5L4dZTuuSW4?si=yRIXulBjHjjHHu2C&autoplay=1&mute=1&loop=1&playlist=-5L4dZTuuSW4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5L4dZTuuSW4?si=gXX21FYaYgozN7xK&autoplay=1&mute=1&loop=1&playlist=5L4dZTuuSW4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
 
 
@@ -341,7 +341,7 @@ p.note { display: none; }
 
 <h2><span class="yellow">今日のBGMは、12 Hours of Calming Music for Cats😻Separation Anxiety Relief💖Deep Rest</span></h2>
 <div class="youtube-wrapper">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AvGQpPX8HU?si=42RtxEYzuMBJtyfd&autoplay=1&mute=0&loop=1&playlist=3AvGQpPX8HU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AvGQpPX8HU?si=42RtxEYzuMBJtyfd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     </div>
 
 <br><br><br>
