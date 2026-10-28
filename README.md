@@ -317,7 +317,7 @@ p.note { display: none; }
 <a href="20261028_00027.jpeg" target="_blank"><img src="20261028_00027.jpeg" alt="サンプル画像" class="responsive-media"></a>
 
 <h2><span class="yellow">28日の朝には昨晩のお月様が西の空に浮かんでました</span></h2>
-<a href="20261028_00028.jpeg" target="_blank"><img src="20261028_00028.jpeg" alt="サンプル画像" class="responsive-media"></a>
+<a href="20261028_00028.jpg" target="_blank"><img src="20261028_00028.jpg" alt="サンプル画像" class="responsive-media"></a>
 
 <h2><span class="yellow">昨晩は明るすぎて写らなかったうさぎさんも、朝日の中でこんにちは</span></h2>
 <a href="20261028_00029.jpeg" target="_blank"><img src="20261028_00029.jpeg" alt="サンプル画像" class="responsive-media"></a>
