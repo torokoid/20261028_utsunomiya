@@ -362,15 +362,13 @@ p.note { display: none; }
 }
 </style>
 
-
-<div class="space-large"></div>
-
 <!--本体はここまで-->
     </div>
 
 <!--画面に空白地帯を作って、背景が見えるようにしています-->
 <div class="space-footer"></div>
-
+<div class="space-footer"></div>
+<div class="space-footer"></div>
 
 
 <!-- フッタ -->
