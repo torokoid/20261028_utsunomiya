@@ -273,6 +273,8 @@ p.note { display: none; }
 <h2><span class="yellow">お花達が皆元気に満開</span></h2>
 <a href="20261028_00002.jpeg" target="_blank"><img src="20261028_00002.jpeg" alt="サンプル画像" class="responsive-media"></a>
 <a href="20261028_00003.jpeg" target="_blank"><img src="20261028_00003.jpeg" alt="サンプル画像" class="responsive-media"></a>
+
+<h2><span class="yellow">ちっちゃな蝶々が蜜集めに来てました</span></h2>
 <a href="20261028_00004.jpeg" target="_blank"><img src="20261028_00004.jpeg" alt="サンプル画像" class="responsive-media"></a>
 <a href="20261028_00005.jpeg" target="_blank"><img src="20261028_00005.jpeg" alt="サンプル画像" class="responsive-media"></a>
 <a href="20261028_00006.jpeg" target="_blank"><img src="20261028_00006.jpeg" alt="サンプル画像" class="responsive-media"></a>
