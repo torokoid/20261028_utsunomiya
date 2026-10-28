@@ -214,6 +214,10 @@ p.note { display: none; }
             margin-bottom: 400px;
         }
 
+        .space-extra-footer {
+            margin-bottom: 1000px;
+        }
+
 </style>
 
 <link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.7.1/css/lightbox.css" rel="stylesheet">
@@ -366,9 +370,8 @@ p.note { display: none; }
     </div>
 
 <!--画面に空白地帯を作って、背景が見えるようにしています-->
-<div class="space-footer"></div>
-<div class="space-footer"></div>
-<div class="space-footer"></div>
+<div class="space-extra-footer"></div>
+
 
 
 <!-- フッタ -->
